@@ -3,8 +3,7 @@
 * [👍] **Navigation Bar**  
 * [👍] **Top Bar**
 * [👍] **Card Box**
-* [ ]  Details Table  
-        -> [👍] **Recent Orders Table**
-        -> [] Recent Customers
+* [👍] **Details Table**  
+        -> [👍] **Recent Orders**  
+        -> [👍] **Recent Customers**
 
-<!-- 34:14 -->

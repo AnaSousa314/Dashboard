@@ -7,3 +7,4 @@
         -> [👍] **Recent Orders**  
         -> [👍] **Recent Customers**
 
+* [👍] **Responsive**  
